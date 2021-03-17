@@ -1,0 +1,17 @@
+{
+  "name": "nextjs-sample-portfolio",
+  "version": "1.0.0",
+  "description": "A nextjs sample portfolio.",
+  "main": "index.js",
+  "scripts": {
+  "dev": "next"
+  },
+  "repository": "https://github.com/alxsmora1/nextjs-sample-portfolio.git",
+  "author": "alxsmora1 <alexis.mora1v@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^10.0.9",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
